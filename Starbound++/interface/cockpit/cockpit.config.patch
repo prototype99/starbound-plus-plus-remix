@@ -1,0 +1,12 @@
+[
+	{
+	"op": "add",
+	"path": "/displayOres/-",
+	"value": {"oreName" : "plutonium", "displayName" : "Plutonium", "icon" : "/items/generic/crafting/plutoniumore.png"}
+  },
+	{
+	"op": "add",
+	"path": "/displayOres/-",
+	"value": {"oreName" : "uranium", "displayName" : "Uranium", "icon" : "/items/generic/crafting/uraniumore.png"}
+  }
+]

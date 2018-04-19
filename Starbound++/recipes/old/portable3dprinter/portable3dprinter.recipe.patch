@@ -1,0 +1,47 @@
+[
+  {
+    "op": "remove",
+    "path": "/input/0"
+  },
+  {
+    "op": "replace",
+    "path": "/input/1/count",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/input/2/item",
+    "value": "wire"
+  },
+  {
+    "op": "replace",
+    "path": "/input/2/count",
+    "value": 5
+  },
+  {
+    "op": "add",
+    "path": "/input/-",
+    "value": {
+      "item": "siliconboard",
+      "count": 1
+    }
+  },
+  {
+    "op": "add",
+    "path": "/input/-",
+    "value": {
+      "item": "battery",
+      "count": 1
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "inventorstable3"
+  },
+  {
+    "op": "add",
+    "path": "/groups/1",
+    "value": "craftingstations"
+  }
+]

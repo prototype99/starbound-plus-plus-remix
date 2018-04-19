@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 0.25
+  },
+  {
+  	"op": "add",
+  	"path": "/interactData/items/-",
+  	"value": { "item" : "mattermodulecomponent" }
+  },
+  {
+  	"op": "add",
+  	"path": "/interactData/items/-",
+  	"value": { "item" : "techchip" }
+  }
+]

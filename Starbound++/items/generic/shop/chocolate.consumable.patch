@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 400
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "The best substance the universe has ever seen. No food can compare with the legendary chocolate."
+  }
+]

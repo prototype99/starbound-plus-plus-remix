@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 },
+	{ "item" : "diamond", "count" : 6 },
+	{ "item" : "climbingrope", "count" : 6 }
+  ],
+  "output" : {
+    "item" : "diamondpickaxe",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil2", "mining", "all" ]
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An EPP module that manipulates gravity, slowing your descent by 50% in the air."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      {
+        "stat": "breathProtection",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An oxygen tank. This will be useful for scuba diving."
+  }
+]

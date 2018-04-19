@@ -1,0 +1,282 @@
+[
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "grapplinghook2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "techcard" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "upgrademodule" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "manipulatormodule" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "firstaidkit" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "portable3dprinter" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "researchstation" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "damageaugment1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "damageaugment2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "damageaugment3" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "energyaugment1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "energyaugment2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "energyaugment3" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "fireblockaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "gravityaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "healingaugment1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "healingaugment2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "healingaugment3" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "healthaugment1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "healthaugment2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "healthaugment3" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "jumpaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "lightaugment1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "lightaugment2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "lightaugment3" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "mobilityaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "poisonblockaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "speedaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "swimaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "thornsaugment" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "laserminer2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "irondrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "copperpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "diamondpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "copperdrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "golddrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "tungstenpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "platinumpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "tungstendrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "diamonddrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "silverdrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "platinumdrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "titaniumdrill" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "titaniumpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "woodpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "ironpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "stonepickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "goldpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/-",
+  "value":
+  { "item" : "silverpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/portable3dprinter",
+  "value": [
+      { "item" : "futurelight" },
+      { "item" : "modernplatform" },
+      { "item" : "modernchair" },
+      { "item" : "moderntable" },
+      { "item" : "slidingdoor" },
+      { "item" : "techhull1" },
+      { "item" : "apexshipwall" },
+      { "item" : "lightmetal" },
+      { "item" : "redtoyblock" },
+      { "item" : "nanostove" }
+  ]
+}
+]

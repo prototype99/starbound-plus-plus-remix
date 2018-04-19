@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An EPP module that restores 0.74% of your total health per second."
+  }
+]

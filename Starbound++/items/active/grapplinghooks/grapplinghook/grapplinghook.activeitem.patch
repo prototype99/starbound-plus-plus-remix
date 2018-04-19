@@ -1,0 +1,15 @@
+[
+	{ "op": "replace",
+		"path": "/shortdescription",
+		"value": "Grappling Gun" },
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "Oh my god, this is even better than the grappling hook!"
+	},
+	{
+    "op": "replace",
+    "path": "/ropeWidth",
+    "value": 1.2
+  }
+]

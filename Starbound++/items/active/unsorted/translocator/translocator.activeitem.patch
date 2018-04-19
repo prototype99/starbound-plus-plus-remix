@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/tooltipKind"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Fire a disc and the miniature teleporter engine will instantaneously teleport you to it."
+  }
+]

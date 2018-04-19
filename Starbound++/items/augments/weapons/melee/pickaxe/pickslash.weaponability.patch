@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/ability/fireTime",
+    "value": 0.15
+  },
+  {
+    "op": "replace",
+    "path": "/ability/blockRadius",
+    "value": 4
+  }
+]

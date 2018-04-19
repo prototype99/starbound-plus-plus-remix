@@ -1,0 +1,36 @@
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [
+      "platinumbar"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 30
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "craftingMaterial"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "It's platinum ore."
+  },
+  {
+    "op": "add",
+    "path": "/itemTags",
+    "value": [
+      "reagent"
+    ]
+  }
+]

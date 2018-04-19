@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 5 },
+    { "item" : "diamond", "count" : 1 },
+    { "item" : "battery", "count" : 2 },
+    { "item" : "techcard", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "translocator",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

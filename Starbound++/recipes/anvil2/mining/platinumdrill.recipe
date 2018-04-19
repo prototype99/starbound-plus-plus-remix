@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "platinumbar", "count" : 6 },
+	{ "item" : "battery", "count" : 1 },
+	{ "item" : "wire", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "platinumdrill",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil2", "mining", "all" ]
+}

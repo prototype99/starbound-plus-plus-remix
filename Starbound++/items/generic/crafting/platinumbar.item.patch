@@ -1,0 +1,24 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 60
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "craftingMaterial"
+  },
+  {
+    "op": "add",
+    "path": "/itemTags",
+    "value": [
+      "reagent"
+    ]
+  }
+]

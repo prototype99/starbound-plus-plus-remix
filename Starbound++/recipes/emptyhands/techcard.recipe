@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "techchip", "count" : 4 }
+  ],
+  "output" : { "item" : "techcard", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}

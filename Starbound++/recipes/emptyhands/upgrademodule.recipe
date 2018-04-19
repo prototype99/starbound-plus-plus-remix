@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "diamond", "count" : 1 },
+    { "item" : "titaniumbar", "count" : 10 }
+  ],
+  "output" : { "item" : "upgrademodule", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}

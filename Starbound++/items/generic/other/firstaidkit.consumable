@@ -1,0 +1,23 @@
+{
+  "itemName" : "firstaidkit",
+  "rarity" : "Uncommon",
+  "price" : 20,
+  "category" : "medicine",
+  "inventoryIcon" : "firstaidkit.png",
+  "description" : "A first aid kit for healing wounds. Restores 80 health over 4 seconds.",
+  "shortdescription" : "First Aid Kit",
+  "effects" : [ [
+      {
+        "effect" : "firstaidkitheal"
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "bandageuse" ],
+  "blockingEffects" : [
+    "salveheal",
+    "bandageheal",
+    "medkitheal",
+    "nanowrapheal",
+    "firstaidkitheal"
+  ]
+}

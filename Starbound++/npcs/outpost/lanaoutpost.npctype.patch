@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/rotationTime",
+    "value": 3600
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/sellFactorRange/0",
+    "value": 0.25
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/sellFactorRange/1",
+    "value": 0.25
+  }
+]

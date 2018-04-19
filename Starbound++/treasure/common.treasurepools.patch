@@ -1,0 +1,32 @@
+[
+  {
+    "op":"add",
+    "path":"/upgradeComponentsTreasure",
+    "value": []
+  },
+  {
+    "op":"add",
+    "path":"/upgradeComponentsTreasure/0",
+    "value": [0]
+  },
+  {
+    "op":"add",
+    "path":"/upgradeComponentsTreasure/0/1",
+    "value": {"pool":""}
+  },
+  {
+    "op":"add",
+    "path":"/upgradeComponentsTreasure/0/1/pool",
+    "value": []
+  },
+  {
+    "op":"add",
+    "path":"/upgradeComponentsTreasure/0/1/pool/0",
+    "value": {"weight" : 0.50, "item" : "mattermodulecomponent"}
+  },
+  {
+    "op":"add",
+    "path":"/upgradeComponentsTreasure/0/1/pool/0",
+    "value": {"weight" : 0.50, "item" : "techchip"}
+  }
+]

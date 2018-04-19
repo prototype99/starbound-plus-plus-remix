@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 700
+  },
+  {
+    "op": "replace",
+    "path": "/durability",
+    "value": 1400
+  },
+  {
+    "op": "replace",
+    "path": "/tileDamage",
+    "value": 2.25
+  },
+  {
+      "op" : "replace",
+      "path" : "/description",
+      "value" : "An above average drill."
+  }
+]

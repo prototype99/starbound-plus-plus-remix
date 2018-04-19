@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "mattermodulecomponent", "count" : 8 }
+  ],
+  "output" : { "item" : "manipulatormodule", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}

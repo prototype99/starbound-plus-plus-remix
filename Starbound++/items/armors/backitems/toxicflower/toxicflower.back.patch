@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A large toxic flower that converts light into energy. Why not wear it on your back?"
+  }
+]

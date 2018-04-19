@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/breakDropOptions/0/0/0",
+    "value": "standingturret"
+  },
+  {
+    "op": "remove",
+    "path": "/breakDropOptions/0/1"
+  }
+]

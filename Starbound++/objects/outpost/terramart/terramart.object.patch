@@ -1,0 +1,21 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 0.25
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "cottonseed"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "broom"
+    }
+  }
+]

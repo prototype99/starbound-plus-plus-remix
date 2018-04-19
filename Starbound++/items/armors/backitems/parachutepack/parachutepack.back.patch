@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A parachute. You can kinda glide with this."
+  },
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      "lowgravaugment"
+    ]
+  }
+]
