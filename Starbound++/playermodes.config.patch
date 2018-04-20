@@ -1,0 +1,6 @@
+[
+  {
+    "op": "remove",
+    "path": "/survival/deathDropItemTypes/3"
+  }
+]
