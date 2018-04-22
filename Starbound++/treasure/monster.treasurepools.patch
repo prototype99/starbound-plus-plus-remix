@@ -1,42 +1,42 @@
 [
  {
     "op": "replace","path": "/basicMonsterTreasure/0/1/pool/0",
-    "value":   {"weight" : 0.64, "pool" : "money"}
+    "value":   {"weight" : 0.69, "pool" : "money"}
   },
  {
     "op": "add","path": "/basicMonsterTreasure/0/1/pool/0",
-    "value":    {"weight" : 0.25, "pool" : "upgradeComponentTreasure"}
+    "value":    {"weight" : 0.20, "pool" : "upgradeComponentTreasure"}
   },
  {
     "op": "replace","path": "/flyingMonsterTreasure/0/1/pool/0",
-    "value":   {"weight" : 0.64, "pool" : "money"}
+    "value":   {"weight" : 0.69, "pool" : "money"}
   },
  {
     "op": "add","path": "/flyingMonsterTreasure/0/1/pool/0",
-    "value":    {"weight" : 0.25, "pool" : "upgradeComponentsTreasure"}
+    "value":    {"weight" : 0.20, "pool" : "upgradeComponentTreasure"}
   },
  {
     "op": "replace","path": "/robotTreasure/0/1/pool/0",
-    "value":   {"weight" : 0.34, "pool" : "money"}
+    "value":   {"weight" : 0.39, "pool" : "money"}
   },
  {
     "op": "add","path": "/robotTreasure/0/1/pool/0",
-    "value":    {"weight" : 0.25, "pool" : "upgradeComponentsTreasure"}
+    "value":    {"weight" : 0.20, "pool" : "upgradeComponentTreasure"}
   },
  {
     "op": "replace","path": "/noMeatMonsterTreasure/0/1/pool/0",
-    "value":   {"weight" : 0.74, "pool" : "money"}
+    "value":   {"weight" : 0.79, "pool" : "money"}
   },
  {
     "op": "add","path": "/noMeatMonsterTreasure/0/1/pool/0",
-    "value":    {"weight" : 0.25, "pool" : "upgradeComponentsTreasure"}
+    "value":    {"weight" : 0.20, "pool" : "upgradeComponentTreasure"}
   },
  {
     "op": "replace","path": "/weaklingMonsterTreasure/0/1/pool/0",
-    "value":   {"weight" : 0.74, "pool" : "money"}
+    "value":   {"weight" : 0.79, "pool" : "money"}
   },
  {
     "op": "add","path": "/weaklingMonsterTreasure/0/1/pool/0",
-    "value":    {"weight" : 0.25, "pool" : "upgradeComponentsTreasure"}
+    "value":    {"weight" : 0.20, "pool" : "upgradeComponentTreasure"}
   }
 ]

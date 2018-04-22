@@ -1,32 +1,32 @@
 [
   {
     "op":"add",
-    "path":"/upgradeComponentsTreasure",
+    "path":"/upgradeComponentTreasure",
     "value": []
   },
   {
     "op":"add",
-    "path":"/upgradeComponentsTreasure/0",
+    "path":"/upgradeComponentTreasure/0",
     "value": [0]
   },
   {
     "op":"add",
-    "path":"/upgradeComponentsTreasure/0/1",
+    "path":"/upgradeComponentTreasure/0/1",
     "value": {"pool":""}
   },
   {
     "op":"add",
-    "path":"/upgradeComponentsTreasure/0/1/pool",
+    "path":"/upgradeComponentTreasure/0/1/pool",
     "value": []
   },
   {
     "op":"add",
-    "path":"/upgradeComponentsTreasure/0/1/pool/0",
-    "value": {"weight" : 0.50, "item" : "mattermodulecomponent"}
+    "path":"/upgradeComponentTreasure/0/1/pool/0",
+    "value": {"weight" : 0.75, "item" : "mattermodulecomponent"}
   },
   {
     "op":"add",
-    "path":"/upgradeComponentsTreasure/0/1/pool/0",
-    "value": {"weight" : 0.50, "item" : "techchip"}
+    "path":"/upgradeComponentTreasure/0/1/pool/0",
+    "value": {"weight" : 0.25, "item" : "techchip"}
   }
 ]
