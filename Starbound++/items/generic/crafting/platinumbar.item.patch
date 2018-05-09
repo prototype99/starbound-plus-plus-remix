@@ -11,7 +11,7 @@
   },
   {
     "op": "replace",
-    "path": "description",
+    "path": "/description",
     "value": "It's a platinum bar. Platinum sells for a handsome price due to its rarity."
   },
   {
