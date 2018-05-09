@@ -1,36 +1,5 @@
 [
   {
-    "op": "replace",
-    "path": "/interactData/buyFactor",
-    "value": 1.5
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/sellFactor",
-    "value": 0.25
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "greenflashlight"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "redflashlight"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "yellowflashlight"
-    }
-  },
-  {
     "op": "add",
     "path": "/interactData/items/-",
     "value": {
