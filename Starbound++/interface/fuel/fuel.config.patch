@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/gui/windowtitle/subtitle",
-    "value": "FTL fuel repository"
-  }
-]
