@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/price",
-    "value": 60
-  },
-  {
-    "op": "replace",
-    "path": "/rarity",
-    "value": "Uncommon"
+    "value": 5000
   },
   {
     "op": "replace",
     "path": "/category",
     "value": "craftingMaterial"
+  },
+  {
+    "op": "replace",
+    "path": "description",
+    "value": "It's a platinum bar. Platinum sells for a handsome price due to its rarity."
   },
   {
     "op": "add",
