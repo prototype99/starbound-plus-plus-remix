@@ -1,7 +1,10 @@
 {
- "author" : "lyciathelycanroc",
- "description" : "This mod enhances the game by tweaking it, adding useful items, and more.",
- "friendlyName" : "Starbound++ remix",
- "name" : "Starbound++ remix",
- "version" : "1.0"
+  "author" : "lyciathelycanroc",
+  "description" : "A version of starbound++ designed to be compatible with frackin universe, retain more of the vanilla game balance, return platinum to the game and make vanity items actually useful. Make sure to get rid of all the new items this mod adds before uninstalling. see https://github.com/prototype99/starbound-plus-plus-remix for the source code",
+  "friendlyName" : "Starbound++ remix",
+  "link" : "steam://url/CommunityFilePage/1382021466",
+  "name" : "Starbound++ remix",
+  "steamContentId" : "1382021466",
+  "tags" : "Crafting and Building|Planets and Environments|Armor and Clothes",
+  "version" : "1.0.0"
 }
