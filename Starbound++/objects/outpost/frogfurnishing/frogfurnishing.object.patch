@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/rotationTime",
-    "value": 3600
-  }
-]
