@@ -13,18 +13,8 @@
   },
   {
     "op": "replace",
-    "path": "/rarity",
-    "value": "Uncommon"
-  },
-  {
-    "op": "replace",
     "path": "/category",
     "value": "craftingMaterial"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "It's platinum ore."
   },
   {
     "op": "add",
