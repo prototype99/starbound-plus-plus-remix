@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "An oxygen tank. This will be useful for scuba diving."
+    "value": "An oxygen tank."
   }
 ]
