@@ -5,10 +5,5 @@
     "value": [
       "maxenergyboostaugment3"
     ]
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "This battery gives a huge boost to your energy regeneration so that you always feel energized!"
   }
 ]
