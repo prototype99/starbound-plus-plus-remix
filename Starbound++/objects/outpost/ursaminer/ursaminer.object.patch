@@ -1,25 +1,5 @@
 [
   {
-    "op": "replace",
-    "path": "/interactData/buyFactor",
-    "value": 2.5
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/sellFactor",
-    "value": 0.25
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/7",
-    "value": {
-      "item": {
-        "name": "ironpickaxe"
-      },
-      "prerequisiteQuest": "human_mission1"
-    }
-  },
-  {
     "op": "add",
     "path": "/interactData/items/10",
     "value": {
@@ -27,96 +7,6 @@
         "name": "platinumbar"
       },
       "prerequisiteQuest": "floran_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/12",
-    "value": {
-      "item": {
-        "name": "tungstenpickaxe"
-      },
-      "prerequisiteQuest": "floran_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/16",
-    "value": {
-      "item": {
-        "name": "titaniumpickaxe"
-      },
-      "prerequisiteQuest": "hylotl_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/17",
-    "value": {
-      "item": {
-        "name": "irondrill"
-      },
-      "prerequisiteQuest": "hylotl_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/19",
-    "value": {
-      "item": {
-        "name": "cavedetector"
-      },
-      "prerequisiteQuest": "hylotl_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/20",
-    "value": {
-      "item": {
-        "name": "oredetector"
-      },
-      "prerequisiteQuest": "hylotl_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/24",
-    "value": {
-      "item": {
-        "name": "durasteelpickaxe"
-      },
-      "prerequisiteQuest": "avian_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/27",
-    "value": {
-      "item": {
-        "name": "tungstendrill"
-      },
-      "prerequisiteQuest": "avian_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/30",
-    "value": {
-      "item": {
-        "name": "titaniumdrill"
-      },
-      "prerequisiteQuest": "apex_mission2"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/31",
-    "value": {
-      "item": {
-        "name": "durasteeldrill"
-      },
-      "prerequisiteQuest": "glitch_mission2"
     }
   }
 ]
