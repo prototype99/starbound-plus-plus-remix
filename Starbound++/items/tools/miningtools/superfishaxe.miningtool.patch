@@ -8,17 +8,5 @@
     "op": "replace",
     "path": "/shortdescription",
     "value": "Super Fishaxe"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "The Super Fishaxe will obliterate EVERYTHING. This won't drop any blocks."
-  },
-  {
-    "op": "add",
-    "path": "/radioMessagesOnPickup",
-    "value": [
-      "pickupsuperfishaxe"
-    ]
   }
 ]
