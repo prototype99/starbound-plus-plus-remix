@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A spacesuit backpack that gives you oxygen to survive."
+    "value": "A spacesuit backpack that is meant to help you breathe and stuff."
   }
 ]
