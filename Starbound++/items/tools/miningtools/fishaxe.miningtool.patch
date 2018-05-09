@@ -3,22 +3,5 @@
     "op": "replace",
     "path": "/largeImage",
     "value": "fish.png"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "The Fishaxe is very destructive."
-  },
-  {
-    "op": "replace",
-    "path": "/durability",
-    "value": 8000
-  },
-  {
-    "op": "add",
-    "path": "/radioMessagesOnPickup",
-    "value": [
-      "pickupfishaxe"
-    ]
   }
 ]
