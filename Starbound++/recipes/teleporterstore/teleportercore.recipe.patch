@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/input/0/count",
-    "value": 8
-  }
-]
