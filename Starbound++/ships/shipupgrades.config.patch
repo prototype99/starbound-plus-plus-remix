@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/maxFuel",
-    "value": 20000
-  }
-]
