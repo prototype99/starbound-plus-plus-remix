@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/sellFactor",
-    "value": 0.4
-  }
-]
