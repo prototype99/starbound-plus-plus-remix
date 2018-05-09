@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "durasteelbar", "count" : 1 },
-    { "item" : "siliconboard", "count" : 2 },
-    { "item" : "wire", "count" : 2 }
-  ],
-  "output" : { "item" : "stickofram", "count" : 2 },
-  "groups" : [ "craftingfurnace3", "ingredients", "all" ]
-}
